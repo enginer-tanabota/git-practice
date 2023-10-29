@@ -1,1 +1,2 @@
 rebaseで新たに追加したファイル1st
+pull時のrebaseで追加した文言
